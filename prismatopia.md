@@ -10,7 +10,7 @@ Prismatopia is an API stack combining a bunch of super-awesome technologies: Apo
     - <https://www.docker.com/>
 1. Install Yeoman
 
-    ```bash
+    ```bashs
     yarn global add yo
     ```
 
